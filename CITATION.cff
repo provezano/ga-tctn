@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "GA-TCTN: hyper-parameter optimization and text classification with transductive term networks (2026 reimplementation)"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Coutinho
+    given-names: Felipe Provezano
+    orcid: "https://orcid.org/0000-0001-7206-5856"
+  - family-names: Rezende
+    given-names: Solange Oliveira
+  - family-names: Rossi
+    given-names: Rafael Geraldeli
+preferred-citation:
+  type: article
+  title: "GA-TCTN: A Framework for Hyper-parameter Optimization and Text Classification Using Transductive Semi-supervised Learning Through Term Networks"
+  authors:
+    - family-names: Coutinho
+      given-names: Felipe Provezano
+      orcid: "https://orcid.org/0000-0001-7206-5856"
+    - family-names: Rezende
+      given-names: Solange Oliveira
+    - family-names: Rossi
+      given-names: Rafael Geraldeli
+  journal: "Learning and Nonlinear Models"
+  volume: 17
+  issue: 2
+  start: 27
+  end: 41
+  year: 2019
+  doi: "10.21528/lmln-vol17-no2-art3"
+  url: "https://sbia.org.br/lnlm/publicacoes/vol17-no2/vol17-no2-art3/"
