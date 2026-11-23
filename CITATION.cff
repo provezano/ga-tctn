@@ -3,7 +3,7 @@ message: "If you use this software, please cite the paper below."
 title: "GA-TCTN: hyper-parameter optimization and text classification with transductive term networks (2026 reimplementation)"
 type: software
 version: 1.0.0
-license: MIT
+license: "Apache-2.0"
 authors:
   - family-names: Coutinho
     given-names: Felipe Provezano

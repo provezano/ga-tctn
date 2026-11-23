@@ -162,4 +162,4 @@ F. P. Coutinho, S. O. Rezende and R. G. Rossi. GA-TCTN: a framework for hyper-pa
 
 ## License
 
-MIT, see `LICENSE`.
+Apache-2.0, see `LICENSE`.
